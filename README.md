@@ -36,5 +36,7 @@ The task is episodic. To solve the environment, the agent must achieve an **aver
 
 ## Instructions
 
-- To run the project, open `my_solution.ipynb` and run the cells to see the implementation using DQN.
-- To view the double DQN implementation, open `my_double.ipynb` and run the cells.
+- To run the project, open `Navigation.ipynb` and run the cells to see the implementation using DQN.
+- The Weights of the selected model using DQN are available in dqn.pth.
+- To view the double DQN implementation, open `Double_DQN.ipynb` and run the cells.
+- The Weights of the selected model using Double DQN are available in double_dqn.pth.
